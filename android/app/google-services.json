@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850704281908",
+    "project_id": "raspi-cc0b2",
+    "storage_bucket": "raspi-cc0b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850704281908:android:c95b40150c3c8b67f07561",
+        "android_client_info": {
+          "package_name": "com.graduation_project.untitled2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850704281908-d4n3v9o1e9ih6bij51ig1mb4fq0bcla1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAevKO2iXGEg3P91PcerrePflaVNL81nM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850704281908-d4n3v9o1e9ih6bij51ig1mb4fq0bcla1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
